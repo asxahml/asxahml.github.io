@@ -41,3 +41,5 @@ Project descriptions are in the corresponding `.html` files. Colors, spacing, an
 7. Use URLs like `https://asxahml.github.io/?utm_source=linkedin&utm_medium=social&utm_campaign=portfolio`. GA4 acquisition reports show campaign traffic, subject to consent and attribution limits.
 8. GA4 enhanced measurement can also report outbound clicks and file downloads separately; avoid counting both its automatic events and these custom events as the same conversion.
 9. Review the `privacy.html` disclosure and applicable privacy requirements before going live.
+
+Fix: All resume and headshot references now point to root-level files matching the uploaded GitHub repository.
